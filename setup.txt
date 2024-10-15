@@ -1,0 +1,24 @@
+MAKO SETUP GUIDE
+
+
+1. Install the requirements
+
+pip install -r requirements.txt
+or
+pip3 install -r requirements.txt
+
+
+
+2. Configure Mako at the top of the "main.py" file
+
+
+
+3. Start Mako Takeover
+
+python main.py
+or
+python3 main.py
+
+
+
+4. delete both "setup-guide.txt" & "readme.md" or dont doesnt really matter
